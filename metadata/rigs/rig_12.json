@@ -1,0 +1,36 @@
+{
+  "name": "Ultra Compressor Rig",
+  "symbol": "OILRIG",
+  "description": "An ultra-compression epic rig delivering unparalleled mining performance and efficiency.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_12.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Compressor"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 2000
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 125
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "1.2 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "21,504 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

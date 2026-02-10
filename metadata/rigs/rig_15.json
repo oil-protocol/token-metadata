@@ -1,0 +1,36 @@
+{
+  "name": "Ultimate Rig",
+  "symbol": "OILRIG",
+  "description": "The ultimate mining rig. The most powerful and prestigious rig in the OIL Refinery ecosystem.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_15.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Ultimate"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ultimate"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 4000
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 300
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "2.5 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "172,032 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

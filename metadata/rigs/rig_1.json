@@ -1,0 +1,36 @@
+{
+  "name": "Basic Rig",
+  "symbol": "OILRIG",
+  "description": "A starter mining rig perfect for beginners. Low fuel consumption makes it ideal for early game progression.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_1.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 100
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 5
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "0.1 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "SOL + OIL (Starter)"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

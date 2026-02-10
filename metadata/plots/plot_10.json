@@ -1,0 +1,28 @@
+{
+  "name": "Master Plot",
+  "symbol": "OILPLOT",
+  "description": "The master plot. The ultimate achievement with maximum slots and legendary fuel capacity.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/plots/plot_10.png",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 9
+    },
+    {
+      "trait_type": "Slots",
+      "value": 5
+    },
+    {
+      "trait_type": "Fuel Capacity",
+      "value": 65000
+    },
+    {
+      "trait_type": "Upgrade Cost",
+      "value": "20,000 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Plot NFT",
+    "collection": "OIL Refinery Plots"
+  }
+}

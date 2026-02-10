@@ -1,0 +1,36 @@
+{
+  "name": "Medium Rig",
+  "symbol": "OILRIG",
+  "description": "A balanced intermediate rig offering solid performance and fuel efficiency.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_5.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Intermediate"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 400
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 25
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "0.3 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "168 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Sensor Rig",
+  "symbol": "OILRIG",
+  "description": "An intermediate rig equipped with advanced sensors for enhanced detection capabilities.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_3.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Intermediate"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sensor"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 250
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 15
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "0.2 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "42 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

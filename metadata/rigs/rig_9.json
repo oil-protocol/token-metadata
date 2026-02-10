@@ -1,0 +1,36 @@
+{
+  "name": "Deep Rig",
+  "symbol": "OILRIG",
+  "description": "A specialized advanced rig designed for deep mining operations with exceptional power.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_9.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Advanced"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Deep"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 1000
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 60
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "0.7 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "2,688 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

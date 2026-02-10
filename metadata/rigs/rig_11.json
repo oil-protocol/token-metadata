@@ -1,0 +1,36 @@
+{
+  "name": "Epic Sensor Rig",
+  "symbol": "OILRIG",
+  "description": "An epic-tier rig with legendary sensor technology. The pinnacle of detection and mining capability.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_11.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sensor"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 1600
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 100
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "1 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "10,752 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

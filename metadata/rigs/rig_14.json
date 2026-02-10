@@ -1,0 +1,36 @@
+{
+  "name": "Master Rig",
+  "symbol": "OILRIG",
+  "description": "The master rig - a masterpiece of engineering combining ultimate power with advanced technology.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/rigs/rig_14.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Master"
+    },
+    {
+      "trait_type": "Mining Power",
+      "value": 3200
+    },
+    {
+      "trait_type": "Fuel Requirement",
+      "value": 200
+    },
+    {
+      "trait_type": "Fuel Consumption",
+      "value": "2 per block"
+    },
+    {
+      "trait_type": "Mint Cost",
+      "value": "86,016 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Rig NFT",
+    "collection": "OIL Refinery Rigs"
+  }
+}

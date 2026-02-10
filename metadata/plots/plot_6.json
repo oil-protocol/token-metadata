@@ -1,0 +1,28 @@
+{
+  "name": "Advanced Plot",
+  "symbol": "OILPLOT",
+  "description": "An advanced plot with superior fuel capacity. Ready for high-tier rigs.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/plots/plot_6.png",
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Slots",
+      "value": 3
+    },
+    {
+      "trait_type": "Fuel Capacity",
+      "value": 1800
+    },
+    {
+      "trait_type": "Upgrade Cost",
+      "value": "1,275 OIL"
+    }
+  ],
+  "properties": {
+    "category": "Plot NFT",
+    "collection": "OIL Refinery Plots"
+  }
+}
