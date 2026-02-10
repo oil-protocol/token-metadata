@@ -27,6 +27,10 @@
     {
       "trait_type": "Mint Cost",
       "value": "5,376 OIL"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "50,000"
     }
   ],
   "properties": {
