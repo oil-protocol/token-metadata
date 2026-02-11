@@ -1,0 +1,7 @@
+{
+  "name": "OIL Refinery Rigs",
+  "symbol": "OILRIG",
+  "description": "Mining rig NFTs for the OIL Refinery game. Stake rigs on your plot to mine OIL and earn rewards.",
+  "image": "https://raw.githubusercontent.com/oil-protocol/token-metadata/main/images/collection.png",
+  "external_url": "https://oil.supply"
+}
